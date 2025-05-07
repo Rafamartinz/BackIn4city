@@ -1,0 +1,5782 @@
+[
+  {
+    "date": "2023-01-01T00:10:10",
+    "plate": "0379IXW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T00:13:06",
+    "plate": "4646NOZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T00:26:15",
+    "plate": "7017OUF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T00:31:19",
+    "plate": "7464TMS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T00:41:29",
+    "plate": "2845GOS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T00:41:39",
+    "plate": "3711QBB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T01:15:59",
+    "plate": "8893COE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T01:26:04",
+    "plate": "0670MRG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T01:27:21",
+    "plate": "1802MDU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T01:32:33",
+    "plate": "7901UFJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T01:35:49",
+    "plate": "9907SKN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T01:36:43",
+    "plate": "2008KQF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T01:39:08",
+    "plate": "2526USW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T01:48:41",
+    "plate": "2552WXH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T01:50:33",
+    "plate": "1229LAF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T02:18:57",
+    "plate": "8855HQA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T02:21:42",
+    "plate": "7875DND",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T02:25:17",
+    "plate": "6307NCR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T02:36:30",
+    "plate": "5011CNW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T02:57:20",
+    "plate": "7411FWV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T02:57:21",
+    "plate": "0507EBI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T03:07:45",
+    "plate": "0714WQW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T03:10:56",
+    "plate": "9349ECU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T03:14:46",
+    "plate": "6309YBH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T03:21:25",
+    "plate": "2596FAO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T03:24:04",
+    "plate": "7133LDH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T03:26:42",
+    "plate": "3694YSF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T03:54:42",
+    "plate": "7912VMI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T03:55:46",
+    "plate": "4162XNM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T04:03:57",
+    "plate": "6809HUW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T04:05:47",
+    "plate": "5896ODV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T04:15:32",
+    "plate": "9300RBA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T04:15:48",
+    "plate": "1964KOG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T04:18:55",
+    "plate": "0064CWK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T04:25:44",
+    "plate": "2984ZFK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T04:32:27",
+    "plate": "1935AUH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T04:32:49",
+    "plate": "1533ZRX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T05:01:20",
+    "plate": "3982XSX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T05:08:23",
+    "plate": "3871HMZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T05:12:30",
+    "plate": "4945NPD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T05:16:07",
+    "plate": "9173EDD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T05:18:00",
+    "plate": "8975YYQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T05:31:01",
+    "plate": "4185SFN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T05:32:27",
+    "plate": "9934UIQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T05:34:44",
+    "plate": "6575LYU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T05:55:28",
+    "plate": "0714VYL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T06:05:38",
+    "plate": "4211RNG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T06:07:03",
+    "plate": "8381BUL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T06:22:57",
+    "plate": "1597QBS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T06:37:58",
+    "plate": "0360WUZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T06:42:19",
+    "plate": "1068YVJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:00:15",
+    "plate": "8045MWY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:01:05",
+    "plate": "5455KIC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:01:45",
+    "plate": "2489WAP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:01:47",
+    "plate": "9860GXO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:02:04",
+    "plate": "6405FLW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:02:23",
+    "plate": "2282FIB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:04:18",
+    "plate": "1042VUU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:04:31",
+    "plate": "3429QTR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:04:32",
+    "plate": "4155IEB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:04:58",
+    "plate": "2280WIQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:05:29",
+    "plate": "8893SXE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:05:55",
+    "plate": "8877VMB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:06:54",
+    "plate": "5296BPC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:07:09",
+    "plate": "6204ULB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:07:13",
+    "plate": "1505SIV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:07:31",
+    "plate": "7999KNK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:08:50",
+    "plate": "0342CPB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:09:25",
+    "plate": "1992PWS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:09:45",
+    "plate": "3330CRW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:11:22",
+    "plate": "5735PDT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:12:11",
+    "plate": "7109QSM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:13:33",
+    "plate": "8523VHI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:14:21",
+    "plate": "7178HHC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:15:27",
+    "plate": "4494RWK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:16:32",
+    "plate": "2461HRC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:16:36",
+    "plate": "1437ZTK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:18:29",
+    "plate": "5670NPW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:18:45",
+    "plate": "2063RPL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:18:52",
+    "plate": "5469QCW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:19:11",
+    "plate": "2963QZS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:19:48",
+    "plate": "4483MJP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:19:54",
+    "plate": "1783KUV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:20:58",
+    "plate": "9656GOE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:21:16",
+    "plate": "0409KMD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:21:30",
+    "plate": "7214DRN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:21:50",
+    "plate": "6698JPS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:23:29",
+    "plate": "9785VGI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:23:50",
+    "plate": "3447WQY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:24:39",
+    "plate": "9077NLR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:24:42",
+    "plate": "6670MTY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:24:51",
+    "plate": "7897NRD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:25:14",
+    "plate": "2906OGG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:26:06",
+    "plate": "0506HWM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:27:54",
+    "plate": "9953APT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:27:59",
+    "plate": "0114ZKI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:28:06",
+    "plate": "2714HAD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:28:29",
+    "plate": "8953FNT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:29:19",
+    "plate": "2993IVN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:29:25",
+    "plate": "5755DZB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:29:41",
+    "plate": "6812RJO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:29:55",
+    "plate": "5241TWL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:30:15",
+    "plate": "8135OID",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:30:44",
+    "plate": "6345OZT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:31:01",
+    "plate": "9632KZL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:31:44",
+    "plate": "3102JRX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:32:50",
+    "plate": "7163BYN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:34:03",
+    "plate": "6315NSU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:34:09",
+    "plate": "9299MCW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:36:41",
+    "plate": "4868YVJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:37:00",
+    "plate": "0217VMM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:37:04",
+    "plate": "1826PBG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:38:01",
+    "plate": "3515VGS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:38:24",
+    "plate": "0448FJO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:39:04",
+    "plate": "3062MHL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:39:40",
+    "plate": "1569CSN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:40:13",
+    "plate": "1204CIH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:40:37",
+    "plate": "4252QAE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:42:16",
+    "plate": "9810FLK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:42:42",
+    "plate": "8036OVC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:42:54",
+    "plate": "7495KNH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:42:56",
+    "plate": "2833INO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:43:07",
+    "plate": "8052EXG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:45:28",
+    "plate": "1303KIW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:45:29",
+    "plate": "6291MQR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:46:05",
+    "plate": "7771XKL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:47:00",
+    "plate": "5887GAB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:48:18",
+    "plate": "6447UKZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:49:06",
+    "plate": "8070HJM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:49:12",
+    "plate": "8471JYI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:49:42",
+    "plate": "6214HLJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:51:08",
+    "plate": "2948BOL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:51:22",
+    "plate": "6044VLI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:52:27",
+    "plate": "4735JDO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:52:37",
+    "plate": "3193NRS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:52:58",
+    "plate": "6132JOP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:53:00",
+    "plate": "8731XXY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:53:48",
+    "plate": "5745SGV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:54:19",
+    "plate": "5235GLP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:55:24",
+    "plate": "0200YEJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:56:02",
+    "plate": "1925WUT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:56:49",
+    "plate": "8132PRK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T07:56:52",
+    "plate": "6816QFK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:57:15",
+    "plate": "1853SJX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:58:01",
+    "plate": "3188AGC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T07:58:16",
+    "plate": "9396RZU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:02:31",
+    "plate": "1893OVN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:04:17",
+    "plate": "6708FIP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:04:28",
+    "plate": "7583FGI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:04:34",
+    "plate": "9565YQS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:04:52",
+    "plate": "8702ALJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:04:58",
+    "plate": "5710EWB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:05:38",
+    "plate": "2041UGA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:05:42",
+    "plate": "6876UPG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:05:57",
+    "plate": "5895FXW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:06:23",
+    "plate": "6288VPT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:06:36",
+    "plate": "6090IUZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:06:54",
+    "plate": "7008JFV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:07:11",
+    "plate": "0496IFL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:08:36",
+    "plate": "6126YMM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:08:40",
+    "plate": "2558DXP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:09:04",
+    "plate": "9819NIP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:09:10",
+    "plate": "0729PKT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:09:25",
+    "plate": "3695LNM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:10:51",
+    "plate": "4021RAJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:10:54",
+    "plate": "2735ELV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:10:55",
+    "plate": "8698ZCE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:11:29",
+    "plate": "8940XMT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:11:30",
+    "plate": "0852XSD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:12:21",
+    "plate": "6342WXC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:13:09",
+    "plate": "8364EMW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:13:28",
+    "plate": "2031OLC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:15:25",
+    "plate": "4724EKR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:16:55",
+    "plate": "0380SJC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:18:15",
+    "plate": "2054GTN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:18:38",
+    "plate": "7610EZY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:18:46",
+    "plate": "2046TAI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:18:49",
+    "plate": "6073XNN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:19:41",
+    "plate": "6258DPA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:20:02",
+    "plate": "5948LBV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:21:12",
+    "plate": "5559YBG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:21:49",
+    "plate": "4706VJG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:21:56",
+    "plate": "0707FXS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:22:09",
+    "plate": "5935WKL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:23:04",
+    "plate": "7889AII",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:24:13",
+    "plate": "9355WBM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:25:26",
+    "plate": "2620NMI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:25:30",
+    "plate": "6780OTV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:28:18",
+    "plate": "7634DGR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:28:21",
+    "plate": "1794SOD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:28:24",
+    "plate": "9325TWV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:28:39",
+    "plate": "6969VTW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:30:08",
+    "plate": "3319XFG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:30:13",
+    "plate": "6182BUY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:30:27",
+    "plate": "6585ZBO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:31:01",
+    "plate": "8782OTF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:31:28",
+    "plate": "2180YFW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:31:33",
+    "plate": "5195MDS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:31:38",
+    "plate": "3441KXU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:32:08",
+    "plate": "4834BCV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:32:22",
+    "plate": "2824ZEE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:33:09",
+    "plate": "2236QDU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:35:17",
+    "plate": "1499YOK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:35:25",
+    "plate": "7207YQB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:37:28",
+    "plate": "5874YBY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:38:20",
+    "plate": "7144NFJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:38:22",
+    "plate": "0081KTG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:39:03",
+    "plate": "0940HXM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:39:21",
+    "plate": "9426DIL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:39:39",
+    "plate": "5624NFU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:40:05",
+    "plate": "8298VFR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:40:19",
+    "plate": "5925BAM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:40:37",
+    "plate": "3522OZH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:41:34",
+    "plate": "8178OOI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:42:26",
+    "plate": "2994NSC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:45:04",
+    "plate": "8513XKP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:45:17",
+    "plate": "1108ZXV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:46:31",
+    "plate": "5426YQS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:47:29",
+    "plate": "8306GPT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:48:44",
+    "plate": "8832XKM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:48:50",
+    "plate": "6712QQF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:49:11",
+    "plate": "8605GRP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:49:22",
+    "plate": "4659DLH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:51:00",
+    "plate": "9118JTZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:52:07",
+    "plate": "2016RSM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:52:19",
+    "plate": "1918VMF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:53:15",
+    "plate": "7126XHH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:54:21",
+    "plate": "2481AOU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:54:34",
+    "plate": "1435EDC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:54:35",
+    "plate": "9288ZFU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:54:41",
+    "plate": "4893AFN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:54:48",
+    "plate": "6069PCP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:55:05",
+    "plate": "7025BMQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:55:51",
+    "plate": "8747HPX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:57:36",
+    "plate": "7509LZZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:57:54",
+    "plate": "3262PBZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:58:06",
+    "plate": "2160APP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T08:58:41",
+    "plate": "9200RIY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T08:58:43",
+    "plate": "3009GVC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:00:14",
+    "plate": "4868JAL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:00:21",
+    "plate": "8162NQN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:02:06",
+    "plate": "6806FEL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:02:37",
+    "plate": "1873CTQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:04:13",
+    "plate": "8718ODX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:04:56",
+    "plate": "7528LTC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:05:39",
+    "plate": "9023BMH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:06:50",
+    "plate": "3566OJF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:07:00",
+    "plate": "8891GRL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:07:12",
+    "plate": "0235ZMP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:09:32",
+    "plate": "7291IUO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:09:39",
+    "plate": "3078GOD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:09:40",
+    "plate": "8657TAU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:09:42",
+    "plate": "2752QTP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:11:45",
+    "plate": "0543KLY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:12:18",
+    "plate": "8403BWT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:12:33",
+    "plate": "5105MTI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:13:53",
+    "plate": "0407AID",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:14:05",
+    "plate": "2870IAJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:14:36",
+    "plate": "4861SGY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:15:23",
+    "plate": "1027GUB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:16:01",
+    "plate": "4217CLL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:17:48",
+    "plate": "2018TJS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:18:35",
+    "plate": "8018KGV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:18:53",
+    "plate": "0838PXU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:19:38",
+    "plate": "5456KYW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:20:02",
+    "plate": "5230XDR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:20:39",
+    "plate": "8167AFB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:23:34",
+    "plate": "1891CFR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:24:25",
+    "plate": "2722XBQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:24:44",
+    "plate": "6798HVK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:26:25",
+    "plate": "8727OIG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:27:22",
+    "plate": "9799EVW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:29:03",
+    "plate": "3525FHU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:29:06",
+    "plate": "8171SMM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:30:24",
+    "plate": "2984EHN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:30:46",
+    "plate": "1626FVI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:30:57",
+    "plate": "8219OJC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:31:15",
+    "plate": "4137LLQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:31:58",
+    "plate": "9278NCG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:32:11",
+    "plate": "1777CRJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:32:24",
+    "plate": "2525NPV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:34:21",
+    "plate": "8912LTD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:35:20",
+    "plate": "7794QCG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:35:32",
+    "plate": "6038PGM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:36:23",
+    "plate": "0690OUF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:37:36",
+    "plate": "3448BDY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:38:42",
+    "plate": "0129EWV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:38:46",
+    "plate": "1264DRP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:38:57",
+    "plate": "8809WIA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:39:53",
+    "plate": "6425SUH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:40:22",
+    "plate": "6188VPD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:40:26",
+    "plate": "3933DTK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:42:01",
+    "plate": "4312CUS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:42:28",
+    "plate": "0494KVM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:43:41",
+    "plate": "7522VED",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:44:26",
+    "plate": "9250QKT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:44:29",
+    "plate": "5101CPN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:44:41",
+    "plate": "9154DND",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:46:47",
+    "plate": "2865NSG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:47:04",
+    "plate": "4148DXR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:47:10",
+    "plate": "9847IYM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:47:11",
+    "plate": "0011UKG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:47:11",
+    "plate": "2972LKF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:47:56",
+    "plate": "4827DTA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:48:49",
+    "plate": "7293KUN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:49:18",
+    "plate": "0168QVW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:50:19",
+    "plate": "8989ORA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:51:53",
+    "plate": "4148LZR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:52:54",
+    "plate": "3920UFO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:52:55",
+    "plate": "6288KTY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:53:12",
+    "plate": "8031TKK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:55:53",
+    "plate": "2809EIK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:56:25",
+    "plate": "2228PJX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T09:57:17",
+    "plate": "7116LSY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T09:58:58",
+    "plate": "0383IZU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:00:30",
+    "plate": "7525KPP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:01:10",
+    "plate": "6297DRB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:01:18",
+    "plate": "9814VQZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:01:25",
+    "plate": "0753WGR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:02:49",
+    "plate": "7494FLG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:03:04",
+    "plate": "1873JRE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:03:07",
+    "plate": "9786CCM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:04:55",
+    "plate": "9059ZGP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:05:03",
+    "plate": "2576POO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:05:22",
+    "plate": "4413YOT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:05:53",
+    "plate": "8366ENG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:05:56",
+    "plate": "2364LSC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:06:18",
+    "plate": "4068BBL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:07:14",
+    "plate": "7670HSZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:08:14",
+    "plate": "0678WCL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:08:51",
+    "plate": "0720OEC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:09:40",
+    "plate": "6959WDJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:10:44",
+    "plate": "9335BLU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:11:08",
+    "plate": "8640ZOP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:11:15",
+    "plate": "5316ZUW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:11:55",
+    "plate": "2272YEE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:12:32",
+    "plate": "2140DWD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:13:02",
+    "plate": "0790CXZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:13:08",
+    "plate": "0984AKN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:14:01",
+    "plate": "4922JNL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:15:38",
+    "plate": "8102PRV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:15:47",
+    "plate": "2828TCF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:15:56",
+    "plate": "0642PEI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:18:02",
+    "plate": "1054LNJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:18:19",
+    "plate": "4687LWN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:18:21",
+    "plate": "8499VAZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:19:18",
+    "plate": "1256UAD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:19:23",
+    "plate": "3526JTR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:19:33",
+    "plate": "5028TMM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:19:36",
+    "plate": "7674UWV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:20:02",
+    "plate": "8374IOZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:20:18",
+    "plate": "7839DAR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:20:38",
+    "plate": "9535CGY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:20:49",
+    "plate": "1640LDR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:22:31",
+    "plate": "7154DIC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:25:38",
+    "plate": "2759OFA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:26:02",
+    "plate": "7783VFK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:26:07",
+    "plate": "9293ZHE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:26:15",
+    "plate": "2915YNX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:26:16",
+    "plate": "9959LBY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:26:41",
+    "plate": "4466QWW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:26:44",
+    "plate": "5967OVU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:27:11",
+    "plate": "1184LQB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:27:53",
+    "plate": "7605HHJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:28:55",
+    "plate": "2681PPN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:29:40",
+    "plate": "7496XNA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:29:41",
+    "plate": "4913ASG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:31:01",
+    "plate": "2310ZKA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:31:30",
+    "plate": "0573BXW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:31:40",
+    "plate": "2319UEZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:32:16",
+    "plate": "7035RDH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:32:47",
+    "plate": "9961CQN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:34:22",
+    "plate": "8697FDB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:34:34",
+    "plate": "4822SZF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:36:47",
+    "plate": "2075OWR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:38:52",
+    "plate": "1152OEV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:39:18",
+    "plate": "9784UFE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:39:26",
+    "plate": "7975PMR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:41:15",
+    "plate": "4678THJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:41:53",
+    "plate": "4710OMN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:42:40",
+    "plate": "1732PJN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:42:57",
+    "plate": "5838NIN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:43:24",
+    "plate": "8999MRT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:43:48",
+    "plate": "4903AJB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:44:28",
+    "plate": "1422VCE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:44:36",
+    "plate": "6453URH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:44:46",
+    "plate": "0289YHE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:45:56",
+    "plate": "9838OGM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:46:20",
+    "plate": "7707JTY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:46:28",
+    "plate": "9740NMW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:46:54",
+    "plate": "8944XJZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:47:11",
+    "plate": "2992OCK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:48:24",
+    "plate": "3168PRY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:49:06",
+    "plate": "2072WFX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:49:16",
+    "plate": "2127WCW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:53:09",
+    "plate": "2247HAW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:53:31",
+    "plate": "0109AJW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:54:02",
+    "plate": "6154LYU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:55:09",
+    "plate": "5629QAV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:56:24",
+    "plate": "8640VAD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:56:44",
+    "plate": "5190VST",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:57:20",
+    "plate": "9675UJH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T10:57:24",
+    "plate": "3695DUB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:57:43",
+    "plate": "0287QUB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:58:38",
+    "plate": "2402KUH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T10:58:59",
+    "plate": "1784UCO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:00:11",
+    "plate": "1230NIC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:00:13",
+    "plate": "2334YCN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:00:28",
+    "plate": "8640BWQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:00:41",
+    "plate": "0043QUK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:00:53",
+    "plate": "2762FLB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:00:55",
+    "plate": "8868CZH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:01:11",
+    "plate": "2113GBB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:01:28",
+    "plate": "2006IQY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:01:44",
+    "plate": "4347GDK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:01:57",
+    "plate": "3503BFU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:02:00",
+    "plate": "4739JMP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:02:04",
+    "plate": "6590JUY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:02:53",
+    "plate": "1056OTX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:04:18",
+    "plate": "5894LIY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:04:32",
+    "plate": "9450LDH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:04:47",
+    "plate": "5830KSZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:06:11",
+    "plate": "5778WSY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:07:06",
+    "plate": "7312GEU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:07:15",
+    "plate": "6091POF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:07:18",
+    "plate": "1192AQW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:08:06",
+    "plate": "8190SHI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:08:51",
+    "plate": "1367ZRO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:10:14",
+    "plate": "1433VPA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:10:21",
+    "plate": "1818GWQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:10:48",
+    "plate": "7861CDN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:11:37",
+    "plate": "8791JJM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:13:06",
+    "plate": "0786TYX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:13:32",
+    "plate": "2828BUU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:13:49",
+    "plate": "1483DYE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:14:18",
+    "plate": "9175LUH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:14:25",
+    "plate": "8536FGX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:14:29",
+    "plate": "5090WCQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:14:53",
+    "plate": "7097UBE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:15:12",
+    "plate": "5755LWF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:15:12",
+    "plate": "1706RGM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:15:36",
+    "plate": "0196OPV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:16:04",
+    "plate": "1649XSS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:16:14",
+    "plate": "4079UYU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:16:43",
+    "plate": "2670FYO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:16:54",
+    "plate": "6293CBP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:16:54",
+    "plate": "6370FCS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:16:59",
+    "plate": "3963RZP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:17:08",
+    "plate": "5830TAL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:17:20",
+    "plate": "9831ADG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:18:14",
+    "plate": "8749KVH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:18:22",
+    "plate": "6046OZO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:19:17",
+    "plate": "6367DRL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:20:09",
+    "plate": "9758MOD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:21:37",
+    "plate": "6843EEK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:22:30",
+    "plate": "7122SID",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:22:38",
+    "plate": "9917LBR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:22:48",
+    "plate": "0748JRW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:23:07",
+    "plate": "1619FDC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:23:15",
+    "plate": "3343KWR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:26:31",
+    "plate": "3353WWS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:27:58",
+    "plate": "9294RNE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:28:02",
+    "plate": "3739LGA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:28:17",
+    "plate": "5850JVX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:28:43",
+    "plate": "1627ODB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:29:20",
+    "plate": "0441FNT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:31:07",
+    "plate": "9835XFW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:32:24",
+    "plate": "1933YLX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:32:58",
+    "plate": "2810GOP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:34:00",
+    "plate": "8935KBV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:35:14",
+    "plate": "7011KIK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:35:44",
+    "plate": "5372YGP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:35:56",
+    "plate": "0419FTJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:37:52",
+    "plate": "4032NQT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:38:47",
+    "plate": "6013LAF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:39:18",
+    "plate": "7223HFG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:41:26",
+    "plate": "7839SIZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:42:26",
+    "plate": "8211KQV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:43:48",
+    "plate": "4682ICS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:44:49",
+    "plate": "9276HDH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:45:21",
+    "plate": "5761JCO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:45:33",
+    "plate": "6483BDV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:46:40",
+    "plate": "7931FHB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:47:03",
+    "plate": "3524QQA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:47:04",
+    "plate": "5086VTJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:47:15",
+    "plate": "7937VXY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:47:37",
+    "plate": "1245TXB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:48:08",
+    "plate": "1289PLR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:48:35",
+    "plate": "8693AGL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:50:14",
+    "plate": "5833RIM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:51:04",
+    "plate": "1679PJN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:54:00",
+    "plate": "7469IBW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:55:10",
+    "plate": "8446LIY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T11:56:31",
+    "plate": "1784DBP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:57:18",
+    "plate": "6999HMB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:58:02",
+    "plate": "8135UQI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:58:36",
+    "plate": "5554WBP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:58:42",
+    "plate": "0368FQE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T11:58:58",
+    "plate": "9771VZT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:01:04",
+    "plate": "8751MOS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:02:54",
+    "plate": "0737TBP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:03:24",
+    "plate": "7034WMA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:03:59",
+    "plate": "4606VRE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:05:28",
+    "plate": "7418OBC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:05:30",
+    "plate": "1344ZAA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:05:34",
+    "plate": "0104BQL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:06:58",
+    "plate": "7979TGE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:06:58",
+    "plate": "7159NIK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:07:13",
+    "plate": "1767ZGP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:07:46",
+    "plate": "5996ZPH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:07:48",
+    "plate": "6902SGB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:08:13",
+    "plate": "9709IQR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:08:48",
+    "plate": "6783PSZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:08:51",
+    "plate": "8041AXP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:09:36",
+    "plate": "0926ZPK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:10:12",
+    "plate": "5136KIP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:11:11",
+    "plate": "4950LOG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:11:29",
+    "plate": "9073LEY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:11:31",
+    "plate": "0918LFB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:11:48",
+    "plate": "0803SKI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:12:22",
+    "plate": "2162PTT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:12:27",
+    "plate": "4381EVA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:13:32",
+    "plate": "4677ZRF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:14:53",
+    "plate": "1113FWC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:15:12",
+    "plate": "1563VCB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:15:34",
+    "plate": "1185KQU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:16:09",
+    "plate": "9739QCH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:16:38",
+    "plate": "0283GVR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:16:53",
+    "plate": "0632DHZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:17:54",
+    "plate": "8192OLE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:19:28",
+    "plate": "3579QYW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:19:51",
+    "plate": "8192AGS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:20:09",
+    "plate": "4935URX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:22:34",
+    "plate": "9469GGO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:22:37",
+    "plate": "5372HOP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:22:59",
+    "plate": "3398SQA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:23:32",
+    "plate": "5320SXB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:23:57",
+    "plate": "4386MLU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:25:38",
+    "plate": "2681BFR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:26:46",
+    "plate": "3665JOX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:26:51",
+    "plate": "2826AIW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:28:47",
+    "plate": "7131YWU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:28:54",
+    "plate": "1189PRD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:29:08",
+    "plate": "5765ETG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:29:16",
+    "plate": "4095SXH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:29:20",
+    "plate": "5922ZLE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:29:23",
+    "plate": "0839NHB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:29:47",
+    "plate": "5152XBW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:32:04",
+    "plate": "2619YPI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:32:22",
+    "plate": "1566BDX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:33:05",
+    "plate": "5763FNM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:34:18",
+    "plate": "0869TQS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:36:27",
+    "plate": "1212ANI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:37:48",
+    "plate": "4052ZTR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:38:10",
+    "plate": "3693CIF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:38:12",
+    "plate": "7235RTY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:38:37",
+    "plate": "5003XPX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:38:56",
+    "plate": "0093PMA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:40:29",
+    "plate": "7845AYY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:41:50",
+    "plate": "3323BCN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:42:19",
+    "plate": "6458ARC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:42:24",
+    "plate": "1003NVN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:42:28",
+    "plate": "3353IVX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:42:39",
+    "plate": "0719XZS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:42:58",
+    "plate": "7743XNH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:43:18",
+    "plate": "2782QVH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:43:32",
+    "plate": "6906OVN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:43:48",
+    "plate": "8360LBY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:45:40",
+    "plate": "9659BZP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:47:20",
+    "plate": "7590FVL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:47:51",
+    "plate": "1536SCC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:48:08",
+    "plate": "7112WWO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:48:15",
+    "plate": "1902EAF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:48:17",
+    "plate": "4467VXC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:48:27",
+    "plate": "4401ZZU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:48:32",
+    "plate": "7284RNP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:49:01",
+    "plate": "9488FBM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:49:20",
+    "plate": "8750BAZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:49:54",
+    "plate": "8164TCT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:51:06",
+    "plate": "3015YTJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:51:17",
+    "plate": "7106BMG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:51:44",
+    "plate": "6842PLM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:52:29",
+    "plate": "9583MES",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:53:16",
+    "plate": "7932XEH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:53:29",
+    "plate": "8726IAP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:53:39",
+    "plate": "3530BQO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:54:18",
+    "plate": "8961FAY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:54:47",
+    "plate": "2547GPR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T12:55:08",
+    "plate": "0651PLZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:55:14",
+    "plate": "3807IDG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:56:04",
+    "plate": "6037YTE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:56:47",
+    "plate": "9945ZAN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:56:57",
+    "plate": "4838VGJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:56:59",
+    "plate": "7589PMY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:58:14",
+    "plate": "9728OPY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T12:58:59",
+    "plate": "5037JMC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:00:16",
+    "plate": "8459GXZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:00:50",
+    "plate": "1294ITH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:01:20",
+    "plate": "3803KBO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:02:11",
+    "plate": "5677QGP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:02:38",
+    "plate": "8911DUX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:02:45",
+    "plate": "6128OOF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:04:29",
+    "plate": "6612NAT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:05:03",
+    "plate": "8125SHN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:05:24",
+    "plate": "8629MDQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:05:32",
+    "plate": "4813WGD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:05:59",
+    "plate": "5196WDF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:06:17",
+    "plate": "5613USC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:06:57",
+    "plate": "1047VUX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:09:52",
+    "plate": "6818SYU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:09:56",
+    "plate": "0614QLZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:10:11",
+    "plate": "1199ZCV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:10:13",
+    "plate": "5284OKM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:11:10",
+    "plate": "3209UCN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:12:16",
+    "plate": "5283DYD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:12:17",
+    "plate": "0853MVZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:12:41",
+    "plate": "6571SQG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:12:41",
+    "plate": "5893VFJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:12:53",
+    "plate": "5165RDS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:14:29",
+    "plate": "1761WIZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:14:48",
+    "plate": "1363IDX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:14:51",
+    "plate": "1129GAK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:15:21",
+    "plate": "1792VJI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:15:58",
+    "plate": "5359ACS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:16:22",
+    "plate": "2758PYE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:16:41",
+    "plate": "8292LTI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:17:41",
+    "plate": "8321PPM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:18:55",
+    "plate": "7980WFE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:19:00",
+    "plate": "7165NMU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:19:42",
+    "plate": "2273OWW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:19:54",
+    "plate": "0997GJN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:20:13",
+    "plate": "6834HKA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:20:43",
+    "plate": "4684CLS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:22:29",
+    "plate": "1674GEU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:22:43",
+    "plate": "8248POK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:23:15",
+    "plate": "8296SRQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:23:38",
+    "plate": "2019CQZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:23:57",
+    "plate": "2412XJC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:25:18",
+    "plate": "5460NPG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:25:19",
+    "plate": "0768LIK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:25:37",
+    "plate": "1758BKA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:26:00",
+    "plate": "7435UCW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:27:09",
+    "plate": "8923XWS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:28:17",
+    "plate": "0113BAQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:28:23",
+    "plate": "4597WTE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:28:45",
+    "plate": "7504QOG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:33:27",
+    "plate": "2073XDJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:34:00",
+    "plate": "7040WAK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:35:42",
+    "plate": "0643LAM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:35:53",
+    "plate": "5042NQE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:36:48",
+    "plate": "5318QMV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:37:17",
+    "plate": "6489PZA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:38:34",
+    "plate": "1003FQY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:39:09",
+    "plate": "9006PFL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:41:31",
+    "plate": "9098TNJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:42:26",
+    "plate": "7756KMF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:44:02",
+    "plate": "4868WAP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:44:51",
+    "plate": "6679KAA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:45:07",
+    "plate": "6334STJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:45:48",
+    "plate": "3070FNP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:48:26",
+    "plate": "8965YHW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:48:32",
+    "plate": "7579BBT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:48:37",
+    "plate": "3191ZEA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:50:37",
+    "plate": "7900GNJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:50:38",
+    "plate": "7746LQT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T13:51:54",
+    "plate": "0144NXR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:52:50",
+    "plate": "3955JAH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:52:59",
+    "plate": "4248FSN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:53:00",
+    "plate": "5699SWS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:54:56",
+    "plate": "3836RZW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:55:00",
+    "plate": "1202QRW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:56:00",
+    "plate": "4805GOJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T13:56:48",
+    "plate": "7764KFS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:00:52",
+    "plate": "4946OGI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:02:19",
+    "plate": "7859JME",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:03:26",
+    "plate": "1180FIW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:04:07",
+    "plate": "6132IYU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:04:25",
+    "plate": "2920UEY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:04:36",
+    "plate": "6370TVI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:04:59",
+    "plate": "8082KZX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:06:10",
+    "plate": "4706TDV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:06:51",
+    "plate": "9578PAC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:07:17",
+    "plate": "9592TQN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:07:19",
+    "plate": "9827VCQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:07:52",
+    "plate": "7434HDX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:10:44",
+    "plate": "8028SMU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:10:50",
+    "plate": "4396EZS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:11:41",
+    "plate": "7735KPS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:12:15",
+    "plate": "2191UCA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:14:33",
+    "plate": "5938PPD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:16:32",
+    "plate": "5087FRD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:16:34",
+    "plate": "2510HKQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:17:06",
+    "plate": "6024UHR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:17:37",
+    "plate": "6262XCJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:18:10",
+    "plate": "2135UEV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:18:28",
+    "plate": "2463KKJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:18:54",
+    "plate": "5329SRF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:19:59",
+    "plate": "8919GOD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:20:29",
+    "plate": "5176ANL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:20:30",
+    "plate": "5558QYZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:21:07",
+    "plate": "4331LCL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:21:25",
+    "plate": "9926YEK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:21:57",
+    "plate": "8447WOC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:22:08",
+    "plate": "5358WPT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:22:29",
+    "plate": "4887CZL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:22:29",
+    "plate": "7516GVO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:22:31",
+    "plate": "4181PBM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:23:20",
+    "plate": "6876OLR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:23:38",
+    "plate": "4350OOX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:24:30",
+    "plate": "5682COU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:24:37",
+    "plate": "9681VTW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:25:35",
+    "plate": "8985CMT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:26:10",
+    "plate": "9966JIU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:26:49",
+    "plate": "1397AEZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:27:12",
+    "plate": "2742CLR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:28:32",
+    "plate": "7150LWK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:28:46",
+    "plate": "0292RBA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:30:26",
+    "plate": "1891OLG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:30:27",
+    "plate": "2745FVU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:31:33",
+    "plate": "4935VKO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:31:46",
+    "plate": "4835UOO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:32:06",
+    "plate": "3459QGP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:32:25",
+    "plate": "6431YJA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:34:12",
+    "plate": "6537YRO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:34:23",
+    "plate": "2952YKA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:35:18",
+    "plate": "0550ZMB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:36:06",
+    "plate": "0669DRJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:36:55",
+    "plate": "1020QOP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:37:12",
+    "plate": "6358XCN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:37:56",
+    "plate": "5527ZNU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:39:58",
+    "plate": "9288LON",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:40:28",
+    "plate": "5756ZVJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:40:52",
+    "plate": "9926JDH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:40:52",
+    "plate": "3503UKU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:40:56",
+    "plate": "1828UZH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:41:13",
+    "plate": "0908BNO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:41:46",
+    "plate": "2492PQN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:42:50",
+    "plate": "4849BXF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:43:43",
+    "plate": "3758WRV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:43:51",
+    "plate": "3366PHE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:43:54",
+    "plate": "1414DQV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:44:09",
+    "plate": "6983MSP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:44:22",
+    "plate": "8663MEM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:45:21",
+    "plate": "7472RID",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:46:19",
+    "plate": "5182IKO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:46:54",
+    "plate": "6526BWY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:48:40",
+    "plate": "5277HUD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:48:43",
+    "plate": "8561QEH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:50:15",
+    "plate": "9962CJI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:50:38",
+    "plate": "5806MGW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:51:33",
+    "plate": "0702VKK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:51:54",
+    "plate": "9630AZT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:52:11",
+    "plate": "3490QJL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:52:34",
+    "plate": "7015JMO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:52:54",
+    "plate": "9642LPT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:53:42",
+    "plate": "8848BZI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:54:22",
+    "plate": "2437AVT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:56:32",
+    "plate": "7520DKM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T14:56:54",
+    "plate": "4646HJA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T14:58:06",
+    "plate": "6359OCO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:00:28",
+    "plate": "9742FCL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:00:51",
+    "plate": "0857VPA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:01:07",
+    "plate": "0261EYJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:02:51",
+    "plate": "3393XQJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:02:59",
+    "plate": "0983YSJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:03:03",
+    "plate": "9738EBD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:03:40",
+    "plate": "7582JRF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:04:16",
+    "plate": "3694CKG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:04:20",
+    "plate": "1078ADZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:04:47",
+    "plate": "5207JEU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:05:26",
+    "plate": "6595PQP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:06:15",
+    "plate": "9641SSW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:07:18",
+    "plate": "4949ILR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:07:40",
+    "plate": "8752UTK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:08:22",
+    "plate": "5932UDR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:08:26",
+    "plate": "9639AWX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:08:32",
+    "plate": "0601HXJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:09:48",
+    "plate": "9629PWU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:10:03",
+    "plate": "4656POD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:10:25",
+    "plate": "6326GKK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:10:40",
+    "plate": "5552BAX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:10:49",
+    "plate": "5556QVX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:12:21",
+    "plate": "7751XKA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:13:56",
+    "plate": "2376ZXL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:14:11",
+    "plate": "5615CWA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:15:42",
+    "plate": "2076EHJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:15:49",
+    "plate": "7750JAY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:16:11",
+    "plate": "6568TBY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:17:02",
+    "plate": "7207QPG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:18:07",
+    "plate": "1706IRW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:18:12",
+    "plate": "0255DKJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:18:18",
+    "plate": "3867BON",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:19:00",
+    "plate": "9734SJQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:20:38",
+    "plate": "7291BOS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:21:06",
+    "plate": "8158IAM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:22:25",
+    "plate": "4742WMQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:23:23",
+    "plate": "9411MEX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:23:47",
+    "plate": "6856WTL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:24:39",
+    "plate": "7182FWV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:25:27",
+    "plate": "8430YPO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:26:17",
+    "plate": "7120AUP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:27:18",
+    "plate": "5229TPT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:27:49",
+    "plate": "5634FIW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:28:44",
+    "plate": "4194YNS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:29:04",
+    "plate": "1879ULY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:30:28",
+    "plate": "9246JVC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:30:45",
+    "plate": "6775MRO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:30:53",
+    "plate": "4591TUI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:31:50",
+    "plate": "3775NGS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:31:57",
+    "plate": "3408OKL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:32:03",
+    "plate": "5563DOQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:33:20",
+    "plate": "0600IUH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:33:25",
+    "plate": "9304YBY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:34:08",
+    "plate": "4687HLZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:34:40",
+    "plate": "4771PVR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:34:51",
+    "plate": "0712MUQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:35:16",
+    "plate": "9988VDT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:36:13",
+    "plate": "3154KGD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:36:15",
+    "plate": "9255IEV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:36:18",
+    "plate": "8322UBZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:36:20",
+    "plate": "2393GCI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:37:08",
+    "plate": "4192ASB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:38:42",
+    "plate": "7312BEX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:38:49",
+    "plate": "5222KIK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:43:55",
+    "plate": "6819FKS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:44:54",
+    "plate": "8562TNN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:45:13",
+    "plate": "6882XDQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:48:24",
+    "plate": "2328PVQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:49:12",
+    "plate": "9406CAE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:49:25",
+    "plate": "9695YDM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:49:36",
+    "plate": "0056BQJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:49:41",
+    "plate": "8838ZFL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:49:44",
+    "plate": "2904KLE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:50:58",
+    "plate": "6298XNO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:50:59",
+    "plate": "0477YHE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:51:17",
+    "plate": "2075DVQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:51:38",
+    "plate": "4337LKD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:52:24",
+    "plate": "3099BVJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:53:11",
+    "plate": "9993QHV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:53:26",
+    "plate": "8040SCN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:54:35",
+    "plate": "2876JOS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:55:21",
+    "plate": "6611ALV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:55:24",
+    "plate": "0256RCZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:55:36",
+    "plate": "4945ZBY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T15:58:14",
+    "plate": "9843YBF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T15:58:31",
+    "plate": "3299WPU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:04:25",
+    "plate": "1193VKM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:05:45",
+    "plate": "0363GZW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:06:10",
+    "plate": "3843SCN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:07:06",
+    "plate": "9523RBR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:08:45",
+    "plate": "9465ZDJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:08:57",
+    "plate": "3398VWU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:11:39",
+    "plate": "2613TLT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:14:13",
+    "plate": "2719BGU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:14:33",
+    "plate": "3410SXS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:16:41",
+    "plate": "0010OOX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:20:13",
+    "plate": "8269PCI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:24:53",
+    "plate": "6297TSD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:27:41",
+    "plate": "5068QMZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:27:50",
+    "plate": "5443PKP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:28:18",
+    "plate": "0396IYJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:29:34",
+    "plate": "0646CPO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:30:21",
+    "plate": "4645XGQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:30:22",
+    "plate": "4019JEF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:30:24",
+    "plate": "0796FIM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:30:25",
+    "plate": "7330UGU",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:35:14",
+    "plate": "6929JHU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:35:37",
+    "plate": "9758TIL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:39:53",
+    "plate": "1590RJY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:42:52",
+    "plate": "3331LCX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:43:38",
+    "plate": "8768MNL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:44:17",
+    "plate": "5831FKT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:46:20",
+    "plate": "8868BEM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:47:23",
+    "plate": "4591XRQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:51:09",
+    "plate": "4201YPD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T16:54:34",
+    "plate": "2730QOT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:54:34",
+    "plate": "4922PRC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:55:27",
+    "plate": "0052XEX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:56:47",
+    "plate": "2429WCA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T16:58:11",
+    "plate": "6030APA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:02:46",
+    "plate": "0983ERO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:04:17",
+    "plate": "0530EZK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:05:38",
+    "plate": "5988YXR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:05:50",
+    "plate": "2050VRC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:06:29",
+    "plate": "5713RCQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:07:40",
+    "plate": "5387ZUE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:07:46",
+    "plate": "8654RUN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:08:01",
+    "plate": "4438IMO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:08:25",
+    "plate": "1026UGE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:12:41",
+    "plate": "6496GZL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:15:18",
+    "plate": "8519DMS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:15:25",
+    "plate": "8617RXE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:15:46",
+    "plate": "3931FXL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:17:34",
+    "plate": "8523ZNJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:17:36",
+    "plate": "3537TXJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:19:09",
+    "plate": "1557TMJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:20:37",
+    "plate": "7824IQQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:21:26",
+    "plate": "8055MBR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:22:01",
+    "plate": "0945SXX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:25:38",
+    "plate": "5509RIA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:29:09",
+    "plate": "1597XWK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:30:24",
+    "plate": "0108WRU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:32:43",
+    "plate": "6095ENS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:33:38",
+    "plate": "4837JBY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:35:20",
+    "plate": "1208KSE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:35:56",
+    "plate": "4173KUJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:36:53",
+    "plate": "9931BOG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:37:36",
+    "plate": "4545ORD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:38:24",
+    "plate": "6995TCT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:38:46",
+    "plate": "9238CAZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:41:24",
+    "plate": "5932PFD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:42:03",
+    "plate": "5507BMR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:43:24",
+    "plate": "8177HLT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:44:01",
+    "plate": "9926RXQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:45:02",
+    "plate": "6787RUI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:45:33",
+    "plate": "7657XGS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:46:36",
+    "plate": "7932OFI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:47:28",
+    "plate": "8194ZSH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:48:12",
+    "plate": "4527DGJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:48:28",
+    "plate": "5251YAQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:48:41",
+    "plate": "9890XUS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:50:50",
+    "plate": "5283FWF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:51:14",
+    "plate": "5425XFL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:53:54",
+    "plate": "9112EIR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:54:18",
+    "plate": "0451KEQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T17:54:55",
+    "plate": "7915ABB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:56:36",
+    "plate": "0668AQQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T17:56:56",
+    "plate": "2133YWI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:00:29",
+    "plate": "7452ZCH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:01:56",
+    "plate": "1680CEM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:03:46",
+    "plate": "3986NIN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:06:54",
+    "plate": "9387TEM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:10:00",
+    "plate": "3562JSE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:12:10",
+    "plate": "1989FOX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:13:25",
+    "plate": "9893PAJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:13:45",
+    "plate": "1728XQQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:13:48",
+    "plate": "0957NGP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:13:52",
+    "plate": "3363RBQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:14:12",
+    "plate": "5663PPO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:20:59",
+    "plate": "8953SHT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:23:13",
+    "plate": "5519SSY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:23:48",
+    "plate": "9832ITW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:25:45",
+    "plate": "3590DSE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:26:40",
+    "plate": "0023BCL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:27:04",
+    "plate": "9015HSH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:28:50",
+    "plate": "1842PVW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:28:51",
+    "plate": "9750FBJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:30:44",
+    "plate": "1176QNX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:36:35",
+    "plate": "3155UQH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:37:26",
+    "plate": "2473XRL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:41:20",
+    "plate": "3589PUX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:42:00",
+    "plate": "7824BEA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:44:05",
+    "plate": "6660QNS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:46:19",
+    "plate": "9917WXB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:46:24",
+    "plate": "3851ORD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:51:11",
+    "plate": "0020NFS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:52:26",
+    "plate": "0653RTT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:54:45",
+    "plate": "2589IMQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T18:56:55",
+    "plate": "2613BZT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T18:58:56",
+    "plate": "3466OCE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:01:00",
+    "plate": "4737KXY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:01:22",
+    "plate": "8721RLR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:02:05",
+    "plate": "5784HOB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:02:42",
+    "plate": "4772EQH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:04:05",
+    "plate": "9867OZI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:05:24",
+    "plate": "1057LDT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:08:02",
+    "plate": "9452RWP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:09:57",
+    "plate": "3122LGL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:10:56",
+    "plate": "5409HYZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:13:29",
+    "plate": "1777WTV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:13:48",
+    "plate": "2110JZV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:18:54",
+    "plate": "2048VDQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:20:55",
+    "plate": "7165MUA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:22:02",
+    "plate": "6300QCX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:22:55",
+    "plate": "6789QGW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:23:41",
+    "plate": "0835APP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:24:11",
+    "plate": "2075NIY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:25:17",
+    "plate": "3842WEY",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:27:04",
+    "plate": "3360HAD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:28:16",
+    "plate": "3156XWF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:29:14",
+    "plate": "0170BMI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:29:59",
+    "plate": "2490EAP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:34:32",
+    "plate": "0507HNZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:39:04",
+    "plate": "8472KJW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:39:05",
+    "plate": "7246AGR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:40:44",
+    "plate": "0629HMV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:41:11",
+    "plate": "2196QOE",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:42:33",
+    "plate": "7269HTM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:47:21",
+    "plate": "1314AUQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T19:47:54",
+    "plate": "5996LPG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T19:54:26",
+    "plate": "6774VGF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:01:50",
+    "plate": "6442ZLO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:05:10",
+    "plate": "3981ZFL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:05:43",
+    "plate": "0480IPP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:05:44",
+    "plate": "5778ZQQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:06:27",
+    "plate": "6615TND",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:08:30",
+    "plate": "0151PTM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:08:53",
+    "plate": "2797QFY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:09:50",
+    "plate": "3154SSD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:10:31",
+    "plate": "2566RKM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:14:04",
+    "plate": "6270LBY",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:14:13",
+    "plate": "6808OUL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:17:42",
+    "plate": "0050ZQQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:18:14",
+    "plate": "9243ROL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:19:46",
+    "plate": "6091JCF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:19:50",
+    "plate": "2037RYI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:21:51",
+    "plate": "7126IKG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:23:13",
+    "plate": "2089GLB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:27:26",
+    "plate": "4847JFE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:27:29",
+    "plate": "2571IXA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:29:49",
+    "plate": "7038BVN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:30:16",
+    "plate": "9673UVF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:31:13",
+    "plate": "0158QGI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:32:45",
+    "plate": "3942NKR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:33:41",
+    "plate": "4221HRF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:34:23",
+    "plate": "7282BPP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:35:01",
+    "plate": "4499DDK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:35:18",
+    "plate": "8236CNI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:35:26",
+    "plate": "4241FZE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:37:25",
+    "plate": "3815GAV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:40:36",
+    "plate": "7726SJP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:41:13",
+    "plate": "2630VRG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:42:25",
+    "plate": "2061YRM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:42:29",
+    "plate": "6678PGO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:43:33",
+    "plate": "5911WZS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:43:45",
+    "plate": "9790ZIX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:44:35",
+    "plate": "5882GTC",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:45:12",
+    "plate": "2547JNZ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:45:16",
+    "plate": "9089XNF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:47:40",
+    "plate": "9888GJW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:49:30",
+    "plate": "0269GFW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:50:42",
+    "plate": "9156RKA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:52:15",
+    "plate": "1869XOE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:53:08",
+    "plate": "6581RDW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:54:25",
+    "plate": "0177GMQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:55:01",
+    "plate": "8896OCD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:55:10",
+    "plate": "7040WEO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T20:55:55",
+    "plate": "3990NOT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T20:55:56",
+    "plate": "5029NHL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:02:23",
+    "plate": "8911NHO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:03:08",
+    "plate": "5825GKT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:06:31",
+    "plate": "9371QRP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:06:44",
+    "plate": "4255PDN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:06:55",
+    "plate": "0834NLG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:08:20",
+    "plate": "5906EYA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:08:53",
+    "plate": "0535PVK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:10:13",
+    "plate": "0458ZLE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:10:29",
+    "plate": "8536XVE",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:12:05",
+    "plate": "7368LCO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:12:17",
+    "plate": "3740CRP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:13:38",
+    "plate": "9784XMW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:14:49",
+    "plate": "7452GXH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:16:34",
+    "plate": "3830LMH",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:17:14",
+    "plate": "2491SYO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:18:46",
+    "plate": "5757UUV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:18:53",
+    "plate": "4149RTP",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:20:27",
+    "plate": "5906TCS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:20:36",
+    "plate": "5228ZFH",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:22:23",
+    "plate": "1044CHX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:25:27",
+    "plate": "4638UOT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:25:36",
+    "plate": "0672UUP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:27:45",
+    "plate": "6542MRJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:27:57",
+    "plate": "6155OCN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:30:06",
+    "plate": "0587UCB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:31:38",
+    "plate": "5752GVI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:32:54",
+    "plate": "4745NAC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:33:04",
+    "plate": "8674AAX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:33:08",
+    "plate": "0918BFM",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:35:38",
+    "plate": "8777UAL",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:36:03",
+    "plate": "6086IJW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:40:01",
+    "plate": "1496VVT",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:40:06",
+    "plate": "0096KEV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:40:27",
+    "plate": "3367DUK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:41:12",
+    "plate": "0058WZM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:43:08",
+    "plate": "9360THK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:47:16",
+    "plate": "8938QRS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:50:30",
+    "plate": "1642ZVV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T21:54:02",
+    "plate": "1494NUS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:54:13",
+    "plate": "6864CMW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:54:28",
+    "plate": "6524AAA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:56:32",
+    "plate": "1380SGB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T21:56:55",
+    "plate": "7174TPA",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:02:44",
+    "plate": "8147IEO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:03:13",
+    "plate": "4065HPR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:04:03",
+    "plate": "6718KEW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:06:57",
+    "plate": "7545TZQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:08:25",
+    "plate": "8721IIW",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:08:48",
+    "plate": "6889JTO",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:10:37",
+    "plate": "9233OSM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:16:58",
+    "plate": "9353TVR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:17:46",
+    "plate": "3489EBQ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:21:32",
+    "plate": "3285SZL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:22:19",
+    "plate": "0418DGV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:24:50",
+    "plate": "3723ZDR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:26:33",
+    "plate": "5650WQD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:28:53",
+    "plate": "8091LTB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:29:15",
+    "plate": "3936XDF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:30:45",
+    "plate": "8713NAS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:30:50",
+    "plate": "4124CQS",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:31:47",
+    "plate": "5685HLB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:32:17",
+    "plate": "8775UAQ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:35:49",
+    "plate": "0449HTV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:35:53",
+    "plate": "9937JWV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:37:33",
+    "plate": "0880JFG",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:38:13",
+    "plate": "1238XZU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:38:30",
+    "plate": "7015KKK",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:38:37",
+    "plate": "9812WWD",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:39:01",
+    "plate": "4892WIG",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:40:07",
+    "plate": "2286BJX",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:40:16",
+    "plate": "4205XRI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:41:09",
+    "plate": "4797KPD",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:41:43",
+    "plate": "1023TLR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:44:24",
+    "plate": "5177XFW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:46:09",
+    "plate": "2412HSV",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:46:09",
+    "plate": "9884KHA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:47:22",
+    "plate": "1972QPI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:51:31",
+    "plate": "9034EMB",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:54:33",
+    "plate": "3718CXV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T22:55:03",
+    "plate": "7835NRI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:56:04",
+    "plate": "5636FZI",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:56:23",
+    "plate": "9470OJR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T22:58:03",
+    "plate": "9156FVP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:01:36",
+    "plate": "0802MMT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:03:53",
+    "plate": "6960MPJ",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:07:44",
+    "plate": "7255GIX",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:08:18",
+    "plate": "0498TQV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:09:08",
+    "plate": "4626CTW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:12:59",
+    "plate": "7277LOR",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:15:25",
+    "plate": "3157ZKT",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:18:02",
+    "plate": "1241LMO",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:25:36",
+    "plate": "4492AZF",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:26:57",
+    "plate": "3807ETV",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:29:29",
+    "plate": "0949HXA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:30:55",
+    "plate": "5936KPB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:31:24",
+    "plate": "3447EPS",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:34:30",
+    "plate": "5477YVL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:37:45",
+    "plate": "4028ZLN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:39:49",
+    "plate": "0962WUR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:40:55",
+    "plate": "6926NZN",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:41:54",
+    "plate": "5680YPM",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:43:00",
+    "plate": "0382SIN",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:43:01",
+    "plate": "5733NBA",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:43:28",
+    "plate": "0332RUC",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:44:44",
+    "plate": "2757CGZ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:46:45",
+    "plate": "1704WFI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:47:04",
+    "plate": "2642IOB",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:47:50",
+    "plate": "6142TSL",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:48:32",
+    "plate": "7694LTJ",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:49:02",
+    "plate": "0359JTK",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:49:03",
+    "plate": "0372ZKR",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:50:57",
+    "plate": "5513WSW",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:52:24",
+    "plate": "9987QKI",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:53:07",
+    "plate": "3650OTU",
+    "direction": 1
+  },
+  {
+    "date": "2023-01-01T23:53:39",
+    "plate": "1011ILP",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:54:21",
+    "plate": "0250HAF",
+    "direction": 0
+  },
+  {
+    "date": "2023-01-01T23:56:22",
+    "plate": "3405WKH",
+    "direction": 1
+  }
+]
