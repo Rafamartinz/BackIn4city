@@ -10,6 +10,8 @@ export class SeedService {
   constructor(
     @InjectModel(Environmental.name)
     private readonly EnviromentalModel: Model<Environmental>,
+
+    @InjectModel(Traffic.name)
     private readonly TrafficModel: Model<Traffic>,
   ) {}
 
@@ -23,14 +25,11 @@ export class SeedService {
       await this.EnviromentalModel.insertMany(dataEnvi);
 
       //Data traffic
-      const rawDataTraffic = fs.readFileSync(
-        '.../data/dataTraffic.json',
-        'utf8',
-      );
+      const rawDataTraffic = fs.readFileSync('./data/dataTraffic.json', 'utf8');
 
       const dataTraffic = JSON.parse(rawDataTraffic);
       await this.TrafficModel.insertMany(dataTraffic);
-
+      console.log(dataTraffic);
       console.log('Datos importados');
     } catch (error) {
       console.log(error);

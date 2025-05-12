@@ -1,7 +1,9 @@
-import { Body, Controller, Post } from '@nestjs/common';
+import { Body, Controller, Get, Post } from '@nestjs/common';
 import { AuthService } from './auth.service';
 import { CreateUserDto } from './dto/createUser.dto';
 import { LoginDTO } from './dto/LoginDto';
+import { get } from 'mongoose';
+import { User } from './entities/auth.entity';
 
 @Controller('auth')
 export class AuthController {
@@ -15,5 +17,10 @@ export class AuthController {
   @Post('login')
   async login(@Body() loginDto: LoginDTO) {
     return await this.authService.login(loginDto);
+  }
+
+  @Get('check-status')
+  checkStatus(@Body() user: User) {
+    return this.authService.checkAuthStatus(user);
   }
 }

@@ -1,6 +1,9 @@
-import { Controller, Get, Post, Body, Param } from '@nestjs/common';
+import { Controller, Get, Post, Body, Param, Patch, Put } from '@nestjs/common';
 import { EnvironmentalService } from './environmental.service';
 import { CreateEnvironmentalDto } from './dto/create-environmental.dto';
+import { DevicesService } from '../devices/devices.service';
+import { CreateDeviceDto } from '../devices/dto/create-device.dto';
+import { get } from 'mongoose';
 
 @Controller('environmental')
 export class EnvironmentalController {
@@ -14,5 +17,10 @@ export class EnvironmentalController {
   @Get()
   findAll() {
     return this.environmentalService.findAll();
+  }
+
+  @Get()
+  findByDeviceID(deviceID: number) {
+    return this.environmentalService.findInfoFromDeviceID(deviceID);
   }
 }

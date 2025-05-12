@@ -12,4 +12,7 @@ export class CreateEnvironmentalDto {
 
   @IsNumber()
   'humidity': number;
+
+  @IsNumber()
+  'deviceID': string;
 }

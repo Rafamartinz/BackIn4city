@@ -8,6 +8,8 @@ import { MongooseModule } from '@nestjs/mongoose';
 import { AuthModule } from './auth/auth.module';
 import { SeedModule } from './seed/seed.module';
 import { ConfigModule } from '@nestjs/config';
+import { DevicesModule } from './devices/devices.module';
+import { EnvironmentalModule } from './environmental/environmental.module';
 
 @Module({
   imports: [
@@ -21,6 +23,8 @@ import { ConfigModule } from '@nestjs/config';
     MongooseModule.forRoot('mongodb://localhost:27017/in4city'),
     AuthModule,
     SeedModule,
+    DevicesModule,
+    EnvironmentalModule,
   ],
 
   controllers: [],

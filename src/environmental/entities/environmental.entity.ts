@@ -1,22 +1,21 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
-import { Document } from 'mongoose';
+import { Document, ObjectId } from 'mongoose';
 @Schema()
 export class Environmental extends Document {
-  //No puede haber dos iguales
-  @Prop({
-    unique: true,
-    index: true,
-  })
-  'date': string;
+  @Prop({})
+  date: string;
 
   @Prop()
-  'temperature': number;
+  temperature: number;
 
   @Prop()
-  'pressure': number;
+  pressure: number;
 
   @Prop()
-  'humidity': number;
+  humidity: number;
+
+  @Prop()
+  deviceID: string;
 }
 
 export const EnviromentalSchema = SchemaFactory.createForClass(Environmental);

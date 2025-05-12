@@ -6,7 +6,10 @@ import {
 } from '@nestjs/common';
 import { CreateEnvironmentalDto } from './dto/create-environmental.dto';
 import { isValidObjectId, Model } from 'mongoose';
-import { Environmental } from './entities/environmental.entity';
+import {
+  Environmental,
+  EnviromentalSchema,
+} from './entities/environmental.entity';
 import { InjectModel } from '@nestjs/mongoose';
 
 @Injectable()
@@ -38,21 +41,9 @@ export class EnvironmentalService {
     return this.EnvironmentalModel.find();
   }
 
-  async findOne(term: string) {
-    let environmental: Environmental | null = null;
+  findInfoFromDeviceID(deviceID: number) {
+    const device = this.EnvironmentalModel.findById(deviceID);
 
-    if (isValidObjectId(term)) {
-      environmental = await this.EnvironmentalModel.findById(term);
-    }
-
-    if (!environmental) {
-      environmental = await this.EnvironmentalModel.findOne({ date: term });
-    }
-
-    if (!environmental) {
-      throw new NotFoundException(`Environmental data not found for: ${term}`);
-    }
-
-    return environmental;
+    return device;
   }
 }

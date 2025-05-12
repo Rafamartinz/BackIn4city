@@ -12,6 +12,14 @@ async function bootstrap() {
       forbidNonWhitelisted: true,
     }),
   );
+
+  // Habilita CORS
+  app.enableCors({
+    origin: 'http://localhost:4200', // o '*' para permitir todos
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    credentials: true, // si usas cookies/autenticación
+  });
+
   await app.listen(process.env.PORT ?? 3000);
 }
 bootstrap();

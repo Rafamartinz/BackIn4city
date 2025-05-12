@@ -18,5 +18,6 @@ import {
       },
     ]),
   ],
+  exports: [MongooseModule],
 })
 export class EnvironmentalModule {}

@@ -1,16 +1,17 @@
-import { Prop, SchemaFactory } from '@nestjs/mongoose';
+import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
+import { Document } from 'mongoose';
 
-export class Traffic {
-  @Prop({
-    unique: true,
-    index: true,
-  })
-  'date': string;
+@Schema()
+export class Traffic extends Document {
+  @Prop()
+  date: Date;
 
   @Prop()
-  'plate': string;
+  plate: string;
 
   @Prop()
-  'direction': number;
+  direction: number;
+  @Prop()
+  deviceID: string;
 }
 export const TrafficSchema = SchemaFactory.createForClass(Traffic);

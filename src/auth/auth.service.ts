@@ -70,6 +70,13 @@ export class AuthService {
     };
   }
 
+  checkAuthStatus(user: User) {
+    return {
+      user: user,
+      token: this.getJWTtoken({ email: user.email }),
+    };
+  }
+
   private getJWTtoken(payload: JwtPayload) {
     const token = this.jwtservice.sign(payload);
 
