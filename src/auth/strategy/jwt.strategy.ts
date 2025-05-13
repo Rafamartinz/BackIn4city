@@ -5,8 +5,9 @@ import { User } from '../entities/auth.entity';
 import { Model } from 'mongoose';
 import { ConfigService } from '@nestjs/config';
 import { JWTInterface } from './interfaces/jwt.strategy.interface';
-import { UnauthorizedException } from '@nestjs/common';
+import { Injectable, UnauthorizedException } from '@nestjs/common';
 
+@Injectable()
 export class JWTstrategy extends PassportStrategy(Strategy) {
   constructor(
     @InjectModel(User.name)

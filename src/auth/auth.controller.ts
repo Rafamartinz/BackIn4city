@@ -1,9 +1,10 @@
-import { Body, Controller, Get, Post } from '@nestjs/common';
+import { Body, Controller, Get, Post, Req, UseGuards } from '@nestjs/common';
 import { AuthService } from './auth.service';
 import { CreateUserDto } from './dto/createUser.dto';
 import { LoginDTO } from './dto/LoginDto';
 import { get } from 'mongoose';
 import { User } from './entities/auth.entity';
+import { AuthGuard } from '@nestjs/passport';
 
 @Controller('auth')
 export class AuthController {
@@ -19,8 +20,9 @@ export class AuthController {
     return await this.authService.login(loginDto);
   }
 
+  @UseGuards(AuthGuard('jwt'))
   @Get('check-status')
-  checkStatus(@Body() user: User) {
-    return this.authService.checkAuthStatus(user);
+  checkStatus(@Req() req) {
+    return this.authService.checkAuthStatus(req.user);
   }
 }
