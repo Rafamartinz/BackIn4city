@@ -6,6 +6,7 @@ import {
   Patch,
   Param,
   Delete,
+  Query,
 } from '@nestjs/common';
 import { DevicesService } from './devices.service';
 import { CreateDeviceDto } from './dto/create-device.dto';
@@ -18,9 +19,19 @@ export class DevicesController {
   create(@Body() createDeviceDto: CreateDeviceDto) {
     return this.devicesService.createDevice(createDeviceDto);
   }
+  @Get('filter')
+  async getFilterData(
+    @Query('fecIni') fecIni: string,
+    @Query('endDate') endDate: string,
+  ) {
+    let fecIniD = new Date(fecIni);
+    let endDateD = new Date(endDate);
 
-  @Get()
-  findAll() {
-    return this.devicesService.findAll();
+    let fecIniTimestamp = fecIniD.getTime();
+    let endDateTimestamp = endDateD.getTime();
+
+    console.log(fecIniTimestamp);
+
+    return this.devicesService.filterForDate(fecIniTimestamp, endDateTimestamp);
   }
 }

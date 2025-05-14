@@ -11,39 +11,27 @@ import {
   EnviromentalSchema,
 } from './entities/environmental.entity';
 import { InjectModel } from '@nestjs/mongoose';
+import { Device } from '../devices/entities/device.entity';
+import { createTracing } from 'trace_events';
+import { ExceptionsHandler } from '@nestjs/core/exceptions/exceptions-handler';
 
 @Injectable()
 export class EnvironmentalService {
   constructor(
     @InjectModel(Environmental.name)
     private readonly EnvironmentalModel: Model<Environmental>,
+    @InjectModel(Environmental.name)
+    private readonly devicesModel: Model<Device>,
   ) {}
-
-  /*   async create(createEnvironmentalDto: CreateEnvironmentalDto) {
-    try {
-      const environmental = await this.EnvironmentalModel.create(
-        createEnvironmentalDto,
-      );
-
-      return environmental;
-    } catch (error) {
-      if (error.code === 11000) {
-        throw new BadRequestException(
-          `Environmental data with duplicate value exists: ${JSON.stringify(error.keyValue)}`,
-        );
-      }
-      console.log(error);
-      throw new InternalServerErrorException();
-    }
-  } */
 
   findAll() {
     return this.EnvironmentalModel.find();
   }
-
+  /* 
   findInfoFromDeviceID(deviceID: number) {
     const device = this.EnvironmentalModel.findById(deviceID);
 
     return device;
   }
+ */
 }

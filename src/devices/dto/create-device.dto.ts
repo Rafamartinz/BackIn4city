@@ -1,4 +1,5 @@
-import { IsIn, IsNumber, IsString } from 'class-validator';
+import { IsDate, IsIn, IsNumber, IsOptional, IsString } from 'class-validator';
+import { Timestamp } from 'rxjs';
 export class CreateDeviceDto {
   @IsNumber()
   lat: Number;
@@ -15,6 +16,10 @@ export class CreateDeviceDto {
 
   @IsString()
   description: string;
+
+  @IsOptional()
+  @IsNumber()
+  createdAt?: number; // timestamp
 
   @IsString()
   guid?: string;

@@ -1,4 +1,5 @@
 import { Schema, SchemaFactory, Prop } from '@nestjs/mongoose';
+import { Timestamp } from 'rxjs';
 
 @Schema()
 export class Device {
@@ -17,9 +18,8 @@ export class Device {
   @Prop()
   description: string;
 
-  @Prop({ default: Date.now })
-  CreatedAt: Date;
-
+  @Prop({ type: Number })
+  createdAt: number;
   @Prop()
   guid: string;
 }

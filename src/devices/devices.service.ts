@@ -28,6 +28,8 @@ export class DevicesService {
   async createDevice(createDeviceDto: CreateDeviceDto) {
     try {
       createDeviceDto.guid = uuidv4();
+      createDeviceDto.createdAt = Date.now();
+      createDeviceDto.createdAt = Math.floor(Date.now() / 1000);
       const NewDevice = new this.DeviceModel(createDeviceDto);
       await NewDevice.save();
 
@@ -59,7 +61,19 @@ export class DevicesService {
     }
   }
 
-  findAll() {
-    return this.DeviceModel.find();
+  async filterForDate(fecIni: number, EndDate: number) {
+    try {
+      const devicesInRange = await this.DeviceModel.find({
+        createdAt: {
+          $gte: Math.floor(fecIni / 1000),
+          $lte: Math.floor(EndDate / 1000),
+        },
+      });
+
+      console.log('Dispositivos encontrados:', devicesInRange);
+      return devicesInRange;
+    } catch (error) {
+      console.error(error);
+    }
   }
 }
