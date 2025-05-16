@@ -23,6 +23,7 @@ export class DevicesController {
   async getFilterData(
     @Query('fecIni') fecIni: string,
     @Query('endDate') endDate: string,
+    @Query('type') type: string,
   ) {
     let fecIniD = new Date(fecIni);
     let endDateD = new Date(endDate);
@@ -32,6 +33,15 @@ export class DevicesController {
 
     console.log(fecIniTimestamp);
 
-    return this.devicesService.filterForDate(fecIniTimestamp, endDateTimestamp);
+    return this.devicesService.filterForDate(
+      type,
+      fecIniTimestamp,
+      endDateTimestamp,
+    );
+  }
+
+  @Delete('delete')
+  async deleteDeviceAndInfo(@Query('id') id: string) {
+    return await this.devicesService.deleteByID(id);
   }
 }

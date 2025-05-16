@@ -16,7 +16,7 @@ import { EnvironmentalModule } from './environmental/environmental.module';
     ConfigModule.forRoot({
       isGlobal: true,
     }),
-    TrafficModule,
+
     ServeStaticModule.forRoot({
       rootPath: join(__dirname, '..', 'public'),
     }),
@@ -25,6 +25,7 @@ import { EnvironmentalModule } from './environmental/environmental.module';
     SeedModule,
     DevicesModule,
     EnvironmentalModule,
+    TrafficModule,
   ],
 
   controllers: [],

@@ -13,4 +13,9 @@ import { CreateTrafficDto } from './dto/create-traffic.dto';
 @Controller('traffic')
 export class TrafficController {
   constructor(private readonly trafficService: TrafficService) {}
+
+  @Get()
+  findAll() {
+    return this.trafficService.findAll();
+  }
 }

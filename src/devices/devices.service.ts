@@ -61,19 +61,43 @@ export class DevicesService {
     }
   }
 
-  async filterForDate(fecIni: number, EndDate: number) {
+  async filterForDate(type?: string, fecIni?: number, EndDate?: number) {
     try {
-      const devicesInRange = await this.DeviceModel.find({
-        createdAt: {
-          $gte: Math.floor(fecIni / 1000),
-          $lte: Math.floor(EndDate / 1000),
-        },
-      });
+      const filter: any = {};
 
+      if (fecIni || EndDate) {
+        filter.createdAt = {};
+        if (fecIni) {
+          filter.createdAt.$gte = Math.floor(fecIni / 1000);
+        }
+        if (EndDate) {
+          filter.createdAt.$lte = Math.floor(EndDate / 1000);
+        }
+      }
+
+      if (type) {
+        filter.type = type;
+      }
+
+      const devicesInRange = await this.DeviceModel.find(filter);
       console.log('Dispositivos encontrados:', devicesInRange);
       return devicesInRange;
     } catch (error) {
       console.error(error);
+      throw error;
     }
+  }
+
+  async deleteByID(id: string) {
+    const device = await this.DeviceModel.findById(id);
+
+    if (device?.type === 'environmental') {
+      await this.EnvironmentalModel.findOneAndDelete({ deviceID: device.guid });
+    }
+    if (device?.type === 'traffic') {
+      await this.trafficModel.findOneAndDelete({ deviceID: device.guid });
+    }
+
+    await this.DeviceModel.findByIdAndDelete(id);
   }
 }
