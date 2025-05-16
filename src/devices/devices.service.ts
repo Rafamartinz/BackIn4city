@@ -80,7 +80,7 @@ export class DevicesService {
       }
 
       const devicesInRange = await this.DeviceModel.find(filter);
-      console.log('Dispositivos encontrados:', devicesInRange);
+      console.log('Dispositivos encontrados:', devicesInRange.length);
       return devicesInRange;
     } catch (error) {
       console.error(error);
