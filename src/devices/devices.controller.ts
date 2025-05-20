@@ -19,6 +19,12 @@ export class DevicesController {
   create(@Body() createDeviceDto: CreateDeviceDto) {
     return this.devicesService.createDevice(createDeviceDto);
   }
+
+  @Get()
+  findAll() {
+    return this.devicesService.findAll();
+  }
+
   @Get('filter')
   async getFilterData(
     @Query('fecIni') fecIni: string,
@@ -40,8 +46,13 @@ export class DevicesController {
     );
   }
 
-  @Delete('delete')
+  @Get('/:id')
+  findOneById(@Param('id') id: string) {
+    return this.devicesService.findOneById(id);
+  }
+
+  /* @Delete('delete')
   async deleteDeviceAndInfo(@Query('id') id: string) {
     return await this.devicesService.deleteByID(id);
-  }
+  } */
 }

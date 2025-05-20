@@ -87,7 +87,7 @@ export class DevicesService {
       throw error;
     }
   }
-
+  /* 
   async deleteByID(id: string) {
     const device = await this.DeviceModel.findById(id);
 
@@ -99,5 +99,13 @@ export class DevicesService {
     }
 
     await this.DeviceModel.findByIdAndDelete(id);
+  } */
+
+  findAll() {
+    return this.DeviceModel.find();
+  }
+
+  findOneById(id: string) {
+    return this.DeviceModel.findById(id);
   }
 }
