@@ -11,8 +11,8 @@ export class EnvironmentalController {
     return this.environmentalService.findAll();
   }
 
-  /*   @Get(':deviceID')
-  findByDeviceID(@Param('deviceID') deviceID: number) {
+  @Get('/:deviceID')
+  findByDeviceID(@Param('deviceID') deviceID: string) {
     return this.environmentalService.findInfoFromDeviceID(deviceID);
-  } */
+  }
 }

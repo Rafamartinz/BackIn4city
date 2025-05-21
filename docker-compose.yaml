@@ -1,12 +1,9 @@
-version: '3'
-
 services:
-  db:
-    image: mongo:5
-    restart: always
+  mongo:
+    image: mongo:6
+    build:
+      dockerfile: dockerfile
+    container_name: mongo-preloaded
+    restart: unless-stopped
     ports:
-      - 27017:27017
-    environment:
-      MONGODB_DATABASE: in4city
-    volumes:
-      - ./mongo:/data/db
+      - '27017:27017'

@@ -20,18 +20,18 @@ export class EnvironmentalService {
   constructor(
     @InjectModel(Environmental.name)
     private readonly EnvironmentalModel: Model<Environmental>,
-    @InjectModel(Environmental.name)
-    private readonly devicesModel: Model<Device>,
   ) {}
 
   findAll() {
     return this.EnvironmentalModel.find();
   }
-  /* 
-  findInfoFromDeviceID(deviceID: number) {
-    const device = this.EnvironmentalModel.findById(deviceID);
 
-    return device;
+  findInfoFromDeviceID(deviceID: string) {
+    if (!deviceID) {
+      console.error('No hay Info sobre ese id');
+    }
+    const deviceInfo = this.EnvironmentalModel.findOne({ deviceID: deviceID });
+
+    return deviceInfo;
   }
- */
 }

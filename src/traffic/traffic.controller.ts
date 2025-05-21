@@ -18,4 +18,9 @@ export class TrafficController {
   findAll() {
     return this.trafficService.findAll();
   }
+
+  @Get('/:deviceID')
+  findByDeviceID(@Param('deviceID') deviceID: string) {
+    return this.trafficService.findInfoFromDeviceID(deviceID);
+  }
 }

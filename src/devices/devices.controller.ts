@@ -26,23 +26,19 @@ export class DevicesController {
   }
 
   @Get('filter')
-  async getFilterData(
-    @Query('fecIni') fecIni: string,
-    @Query('endDate') endDate: string,
-    @Query('type') type: string,
+  async getDevicesWithFilter(
+    @Query('type') type?: string,
+    @Query('fecIni') fecIni?: number,
+    @Query('EndDate') EndDate?: number,
+    @Query('page') page: number = 1,
+    @Query('limit') limit: number = 10,
   ) {
-    let fecIniD = new Date(fecIni);
-    let endDateD = new Date(endDate);
-
-    let fecIniTimestamp = fecIniD.getTime();
-    let endDateTimestamp = endDateD.getTime();
-
-    console.log(fecIniTimestamp);
-
     return this.devicesService.filterForDate(
       type,
-      fecIniTimestamp,
-      endDateTimestamp,
+      fecIni,
+      EndDate,
+      page,
+      limit,
     );
   }
 

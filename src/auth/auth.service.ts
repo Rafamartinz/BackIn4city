@@ -9,7 +9,7 @@ import { CreateUserDto } from './dto/createUser.dto';
 import { LoginDTO } from './dto/LoginDto';
 import { InjectRepository } from '@nestjs/typeorm';
 import { User } from './entities/auth.entity';
-import * as bcrypt from 'bcrypt';
+import * as bcrypt from 'bcryptjs';
 import { Repository } from 'typeorm';
 import { error } from 'console';
 import { InjectModel } from '@nestjs/mongoose';

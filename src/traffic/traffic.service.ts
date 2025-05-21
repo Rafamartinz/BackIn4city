@@ -13,4 +13,13 @@ export class TrafficService {
   findAll() {
     return this.trafficModel.find();
   }
+
+  findInfoFromDeviceID(deviceID: string) {
+    if (!deviceID) {
+      console.error('No hay Info sobre ese id');
+    }
+    const deviceInfo = this.trafficModel.findOne({ deviceID: deviceID });
+
+    return deviceInfo;
+  }
 }

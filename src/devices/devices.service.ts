@@ -24,28 +24,30 @@ export class DevicesService {
     @InjectModel(Traffic.name)
     private readonly trafficModel: Model<Traffic>,
   ) {}
-
   async createDevice(createDeviceDto: CreateDeviceDto) {
     try {
-      createDeviceDto.guid = uuidv4();
-      createDeviceDto.createdAt = Date.now();
-      createDeviceDto.createdAt = Math.floor(Date.now() / 1000);
-      const NewDevice = new this.DeviceModel(createDeviceDto);
-      await NewDevice.save();
-
       const environmental = await this.EnvironmentalModel.findOne({
         deviceID: null,
       });
+      const traffic = await this.trafficModel.findOne({ deviceID: null });
 
-      const traffic = await this.trafficModel.findOne({
-        deviceID: null,
-      });
+      if (createDeviceDto.type === 'environmental' && !environmental) {
+        throw new Error('No hay datos para el dispositivo ambiental');
+      }
+
+      if (createDeviceDto.type !== 'environmental' && !traffic) {
+        throw new Error('No hay datos para el dispositivo de trafico');
+      }
+
+      createDeviceDto.guid = uuidv4();
+      createDeviceDto.createdAt = Math.floor(Date.now() / 1000);
+
+      const NewDevice = new this.DeviceModel(createDeviceDto);
+      await NewDevice.save();
 
       if (NewDevice.type === 'environmental') {
         if (environmental) {
-          //El deviceID es lo que voy a utilizar  como id de busqueda
           environmental.deviceID = NewDevice.guid;
-          console.log(environmental.deviceID);
           await environmental.save();
         }
       } else {
@@ -57,21 +59,32 @@ export class DevicesService {
 
       return NewDevice;
     } catch (error) {
-      console.log(error);
+      console.error(error);
+      throw error;
     }
   }
 
-  async filterForDate(type?: string, fecIni?: number, EndDate?: number) {
+  async filterForDate(
+    type?: string,
+    fecIni?: number,
+    EndDate?: number,
+    page: number = 1,
+    limit: number = 10,
+  ) {
     try {
       const filter: any = {};
 
       if (fecIni || EndDate) {
         filter.createdAt = {};
         if (fecIni) {
-          filter.createdAt.$gte = Math.floor(fecIni / 1000);
+          const fecIniTimestamp = Math.floor(new Date(fecIni).getTime() / 1000);
+          filter.createdAt.$gte = fecIniTimestamp;
         }
         if (EndDate) {
-          filter.createdAt.$lte = Math.floor(EndDate / 1000);
+          const fecFinTimestamp = Math.floor(
+            new Date(EndDate).getTime() / 1000,
+          );
+          filter.createdAt.$lte = fecFinTimestamp;
         }
       }
 
@@ -79,14 +92,29 @@ export class DevicesService {
         filter.type = type;
       }
 
-      const devicesInRange = await this.DeviceModel.find(filter);
-      console.log('Dispositivos encontrados:', devicesInRange.length);
-      return devicesInRange;
+      const skip = (page - 1) * limit;
+
+      const [devices, total] = await Promise.all([
+        this.DeviceModel.find(filter)
+          .skip(skip)
+          .limit(limit)
+          .sort({ createdAt: -1 }),
+        this.DeviceModel.countDocuments(filter),
+      ]);
+
+      return {
+        data: devices,
+        total,
+        page,
+        limit,
+        totalPages: Math.ceil(total / limit),
+      };
     } catch (error) {
       console.error(error);
       throw error;
     }
   }
+
   /* 
   async deleteByID(id: string) {
     const device = await this.DeviceModel.findById(id);
