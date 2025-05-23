@@ -14,6 +14,8 @@ export class TrafficService {
     return this.trafficModel.find();
   }
 
+  //BUsca por deviceId la info del device
+
   findInfoFromDeviceID(deviceID: string) {
     if (!deviceID) {
       console.error('No hay Info sobre ese id');

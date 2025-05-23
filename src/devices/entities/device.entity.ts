@@ -22,6 +22,9 @@ export class Device {
   createdAt: number;
   @Prop()
   guid: string;
+
+  @Prop()
+  zoneId: string;
 }
 
 export const DevicesSchema = SchemaFactory.createForClass(Device);

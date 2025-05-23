@@ -25,6 +25,7 @@ export class DevicesController {
     return this.devicesService.findAll();
   }
 
+  //Llamo a la funcion del servicio inicializando algunas variables
   @Get('filter')
   async getDevicesWithFilter(
     @Query('type') type?: string,

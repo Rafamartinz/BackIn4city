@@ -5,6 +5,7 @@ import { Environmental } from 'src/environmental/entities/environmental.entity';
 import * as fs from 'fs';
 import { Traffic } from 'src/traffic/entities/traffic.entity';
 
+//  SERVICIO POR SI SE NECESITA MAS DATOS DE MEDIOAMBIENTE Y TRAFICO
 @Injectable()
 export class SeedService {
   constructor(

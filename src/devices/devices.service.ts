@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { HttpException, HttpStatus, Injectable } from '@nestjs/common';
 import { CreateDeviceDto } from './dto/create-device.dto';
 import { Device } from './entities/device.entity';
 import { Model } from 'mongoose';
@@ -24,27 +24,39 @@ export class DevicesService {
     @InjectModel(Traffic.name)
     private readonly trafficModel: Model<Traffic>,
   ) {}
+
+  //Creacion de dispositivos
   async createDevice(createDeviceDto: CreateDeviceDto) {
     try {
+      //Intenta buscar datos de medioambiente o trafico sin asignar(Sin guid)
       const environmental = await this.EnvironmentalModel.findOne({
         deviceID: null,
       });
       const traffic = await this.trafficModel.findOne({ deviceID: null });
 
+      //Si no lo encuentra lanza una exception para mostrar en front
       if (createDeviceDto.type === 'environmental' && !environmental) {
-        throw new Error('No hay datos para el dispositivo ambiental');
+        throw new HttpException(
+          'No hay datos para el dispositivo ambiental',
+          HttpStatus.BAD_REQUEST,
+        );
       }
 
       if (createDeviceDto.type !== 'environmental' && !traffic) {
-        throw new Error('No hay datos para el dispositivo de trafico');
+        throw new HttpException(
+          'No hay datos para el dispositivo de tráfico',
+          HttpStatus.BAD_REQUEST,
+        );
       }
 
+      //Si pasa todas las validaciones asignados a el dispositivo en guid y ponemos la fecha correcta ya que la creo con timestapm porch
       createDeviceDto.guid = uuidv4();
       createDeviceDto.createdAt = Math.floor(Date.now() / 1000);
 
       const NewDevice = new this.DeviceModel(createDeviceDto);
       await NewDevice.save();
 
+      //Y añadimos ese guid a deviceID de el dato que sea trafico o medioambiente
       if (NewDevice.type === 'environmental') {
         if (environmental) {
           environmental.deviceID = NewDevice.guid;
@@ -64,6 +76,8 @@ export class DevicesService {
     }
   }
 
+  //Filtrar para mostrar los dispositivos y paginacion
+
   async filterForDate(
     type?: string,
     fecIni?: number,
@@ -74,6 +88,7 @@ export class DevicesService {
     try {
       const filter: any = {};
 
+      //Si hay datos de fecIni y Enddate las pasamos los timestamp a fecha
       if (fecIni || EndDate) {
         filter.createdAt = {};
         if (fecIni) {
@@ -88,20 +103,26 @@ export class DevicesService {
         }
       }
 
+      //Simplemente el tipo es lo que pongas de valor si tiene
       if (type) {
         filter.type = type;
       }
 
+      //Formula para saber la cantidad de el salto de documentos
       const skip = (page - 1) * limit;
 
+      //Ejecuto dos consultas a la vez
+      // Una es que me busque esos dispositivos con esos filtros
       const [devices, total] = await Promise.all([
         this.DeviceModel.find(filter)
           .skip(skip)
           .limit(limit)
           .sort({ createdAt: -1 }),
+        //CountDocuments los cuenta,sirve para saber las paginas que hay de dispositivos
         this.DeviceModel.countDocuments(filter),
       ]);
 
+      //Devuelve los valores
       return {
         data: devices,
         total,
@@ -115,7 +136,7 @@ export class DevicesService {
     }
   }
 
-  /* 
+  /* Por si fuese necesario
   async deleteByID(id: string) {
     const device = await this.DeviceModel.findById(id);
 

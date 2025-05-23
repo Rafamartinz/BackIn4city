@@ -10,6 +10,7 @@ import { SeedModule } from './seed/seed.module';
 import { ConfigModule } from '@nestjs/config';
 import { DevicesModule } from './devices/devices.module';
 import { EnvironmentalModule } from './environmental/environmental.module';
+import { ZonasModule } from './zonas/zonas.module';
 
 @Module({
   imports: [
@@ -26,6 +27,7 @@ import { EnvironmentalModule } from './environmental/environmental.module';
     DevicesModule,
     EnvironmentalModule,
     TrafficModule,
+    ZonasModule,
   ],
 
   controllers: [],

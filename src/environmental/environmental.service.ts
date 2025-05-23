@@ -26,6 +26,7 @@ export class EnvironmentalService {
     return this.EnvironmentalModel.find();
   }
 
+  //Busca el device con ese DeviceID
   findInfoFromDeviceID(deviceID: string) {
     if (!deviceID) {
       console.error('No hay Info sobre ese id');
