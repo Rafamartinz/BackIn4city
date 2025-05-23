@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { Injectable, NotFoundException } from '@nestjs/common';
 import { CreateZonaDto } from './dto/create-zona.dto';
 import { InjectModel } from '@nestjs/mongoose';
 import { Zona } from './entities/zona.entity';
@@ -42,5 +42,21 @@ export class ZonasService {
 
   findOne(id: string) {
     return this.zonaModel.findById(id);
+  }
+
+  async PatchZoneDevices(zoneId: string, deviceId) {
+    const zone = await this.zonaModel.findById(zoneId);
+    if (!zone) throw new NotFoundException('Zona no encontrada');
+
+    if (!zone.devices.includes(deviceId)) {
+      zone.devices.push(deviceId);
+      await zone.save();
+    }
+
+    const device = await this.deviceModel.findById(deviceId);
+    if (!device) throw new NotFoundException('Dispositivo no encontrado');
+
+    device.zoneId = zoneId;
+    await device.save();
   }
 }

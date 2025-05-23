@@ -104,7 +104,7 @@ db.devices.insertMany([
     description: 'Rotonda principal',
     createdAt: 1747742400,
     guid: 'h54i865c-49a0-4a09-8fa6-56ba77914999',
-    zoneId: null,
+    zoneId: '',
 
     __v: 0,
   },
@@ -117,7 +117,7 @@ db.devices.insertMany([
     description: 'Tráfico zona centro',
     createdAt: 1747743000,
     guid: 'n20o865c-49a0-4a09-8fa6-56ba77915005',
-    zoneId: null,
+    zoneId: '',
     __v: 0,
   },
 ]);

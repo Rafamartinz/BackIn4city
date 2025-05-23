@@ -25,5 +25,5 @@ export class CreateDeviceDto {
   guid?: string;
 
   @IsString()
-  zoneID?: string;
+  zoneId?: string;
 }
