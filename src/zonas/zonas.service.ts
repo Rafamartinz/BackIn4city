@@ -44,7 +44,7 @@ export class ZonasService {
     return this.zonaModel.findById(id);
   }
 
-  async PatchZoneDevices(zoneId: string, deviceId) {
+  async PatchZoneDevices(zoneId: string, deviceId: string) {
     const zone = await this.zonaModel.findById(zoneId);
     if (!zone) throw new NotFoundException('Zona no encontrada');
 

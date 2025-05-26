@@ -126,7 +126,6 @@ db.devices.insertMany([
 db.zonas.insertMany([
   {
     _id: ObjectId('682c6bc1df7ceed4ca504c20'),
-    name: 'Zona A',
     description: 'Zona con cámaras de tráfico en área escolar',
     devices: [
       '682c6c0cdf7ceed4ca504cd0',
@@ -136,13 +135,11 @@ db.zonas.insertMany([
   },
   {
     _id: ObjectId('682c6bc1df7ceed4ca504c21'),
-    name: 'Zona B',
     description: 'Zona residencial ambiental',
     devices: ['682c6c0cdf7ceed4ca504cd4', '682c6c0cdf7ceed4ca504cd5'],
   },
   {
     _id: ObjectId('682c6bc1df7ceed4ca504c22'),
-    name: 'Zona C',
     description: 'Zona mixta con dispositivos diversos',
     devices: ['682c6c0cdf7ceed4ca504cd6', '682c6c0cdf7ceed4ca504cd8'],
   },
