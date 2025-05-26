@@ -87,17 +87,22 @@ export class DevicesService {
   ) {
     try {
       const filter: any = {};
-
       //Si hay datos de fecIni y Enddate las pasamos los timestamp a fecha
       if (fecIni || EndDate) {
         filter.createdAt = {};
         if (fecIni) {
           const fecIniTimestamp = Math.floor(new Date(fecIni).getTime() / 1000);
+          console.log('Fecha pasada a timestamp service', fecIniTimestamp);
+
           filter.createdAt.$gte = fecIniTimestamp;
         }
         if (EndDate) {
           const fecFinTimestamp = Math.floor(
             new Date(EndDate).getTime() / 1000,
+          );
+          console.log(
+            'Fecha pasada a timestamp serviceasdasdasdasd',
+            fecFinTimestamp,
           );
           filter.createdAt.$lte = fecFinTimestamp;
         }

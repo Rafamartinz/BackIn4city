@@ -10,6 +10,7 @@ import {
 } from '@nestjs/common';
 import { DevicesService } from './devices.service';
 import { CreateDeviceDto } from './dto/create-device.dto';
+import { EnviromentalSchema } from 'src/environmental/entities/environmental.entity';
 
 @Controller('devices')
 export class DevicesController {
@@ -34,6 +35,8 @@ export class DevicesController {
     @Query('page') page: number = 1,
     @Query('limit') limit: number = 10,
   ) {
+    console.log('FEcha controller', fecIni);
+    console.log('FEcha controller', EndDate);
     return this.devicesService.filterForDate(
       type,
       fecIni,
