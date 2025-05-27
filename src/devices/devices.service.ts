@@ -100,10 +100,7 @@ export class DevicesService {
           const fecFinTimestamp = Math.floor(
             new Date(EndDate).getTime() / 1000,
           );
-          console.log(
-            'Fecha pasada a timestamp serviceasdasdasdasd',
-            fecFinTimestamp,
-          );
+          console.log('Fecha pasada a timestamp service', fecFinTimestamp);
           filter.createdAt.$lte = fecFinTimestamp;
         }
       }
@@ -113,7 +110,7 @@ export class DevicesService {
         filter.type = type;
       }
 
-      //Formula para saber la cantidad de el salto de documentos
+      //Formula para saber la cantidad de el salto de dispositivos
       const skip = (page - 1) * limit;
 
       //Ejecuto dos consultas a la vez

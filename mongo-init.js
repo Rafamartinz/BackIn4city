@@ -233,6 +233,13 @@ db.environmentals.insertMany([
     pressure: 1030.7,
     humidity: 65.3,
   },
+  {
+    _id: ObjectId('682c6bc1df7ceed4ca504c82'),
+    date: ISODate('2023-01-14T00:00:00Z'),
+    temperature: 33.0,
+    pressure: 1030.7,
+    humidity: 65.3,
+  },
 ]);
 
 db.traffics.insertMany([

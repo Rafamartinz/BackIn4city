@@ -26,7 +26,7 @@ export class ZonasService {
     const saveZona = await newZona.save();
 
     const deviceIds = createZonaDto.devices;
-
+    //For que va id a id buscando el respectivo disposivito y settea zoneiD con el id
     for (const deviceId of deviceIds) {
       await this.deviceModel.findByIdAndUpdate(deviceId, {
         zoneId: saveZona._id,
@@ -48,6 +48,7 @@ export class ZonasService {
     const zone = await this.zonaModel.findById(zoneId);
     if (!zone) throw new NotFoundException('Zona no encontrada');
 
+    //Si en el array de id de devices no esta el id que paso por parametro pe lo pushea
     if (!zone.devices.includes(deviceId)) {
       zone.devices.push(deviceId);
       await zone.save();
@@ -55,7 +56,7 @@ export class ZonasService {
 
     const device = await this.deviceModel.findById(deviceId);
     if (!device) throw new NotFoundException('Dispositivo no encontrado');
-
+    //Setteo el campo zoneID de el device con ese ID
     device.zoneId = zoneId;
     await device.save();
   }
