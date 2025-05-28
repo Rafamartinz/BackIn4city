@@ -1,5 +1,4 @@
 import { Schema, SchemaFactory, Prop } from '@nestjs/mongoose';
-import { Timestamp } from 'rxjs';
 
 @Schema()
 export class Device {

@@ -2,10 +2,10 @@ import { Body, Controller, Get, Post, Req, UseGuards } from '@nestjs/common';
 import { AuthService } from './auth.service';
 import { CreateUserDto } from './dto/createUser.dto';
 import { LoginDTO } from './dto/LoginDto';
-import { get } from 'mongoose';
-import { User } from './entities/auth.entity';
 import { AuthGuard } from '@nestjs/passport';
+import { ApiExcludeController } from '@nestjs/swagger';
 
+@ApiExcludeController()
 @Controller('auth')
 export class AuthController {
   constructor(private readonly authService: AuthService) {}

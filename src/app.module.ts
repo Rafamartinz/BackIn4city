@@ -32,5 +32,6 @@ import { ZonasModule } from './zonas/zonas.module';
 
   controllers: [],
   providers: [],
+  exports: [MongooseModule],
 })
 export class AppModule {}

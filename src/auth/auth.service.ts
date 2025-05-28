@@ -1,20 +1,11 @@
 import { JwtPayload } from './../../node_modules/@types/jsonwebtoken/index.d';
-import {
-  BadRequestException,
-  Injectable,
-  InternalServerErrorException,
-  UnauthorizedException,
-} from '@nestjs/common';
+import { Injectable, UnauthorizedException } from '@nestjs/common';
 import { CreateUserDto } from './dto/createUser.dto';
 import { LoginDTO } from './dto/LoginDto';
-import { InjectRepository } from '@nestjs/typeorm';
 import { User } from './entities/auth.entity';
 import * as bcrypt from 'bcryptjs';
-import { Repository } from 'typeorm';
-import { error } from 'console';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
-import { JWTstrategy } from './strategy/jwt.strategy';
 import { JwtService } from '@nestjs/jwt';
 @Injectable()
 export class AuthService {

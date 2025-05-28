@@ -1,7 +1,7 @@
 import { ApiProperty } from '@nestjs/swagger';
 import { IsIn, IsNumber, IsOptional, IsString } from 'class-validator';
 
-export class CreateDeviceDto {
+export class UpdateDeviceDto {
   @ApiProperty({
     example: '-3.234',
     description: 'Latitud del dispositivo',

@@ -1,22 +1,27 @@
-import { HttpException, HttpStatus, Injectable } from '@nestjs/common';
+import {
+  HttpException,
+  HttpStatus,
+  Injectable,
+  NotFoundException,
+} from '@nestjs/common';
 import { CreateDeviceDto } from './dto/create-device.dto';
 import { Device } from './entities/device.entity';
 import { Model } from 'mongoose';
-import { error } from 'console';
 import { InjectModel } from '@nestjs/mongoose';
-import {
-  EnviromentalSchema,
-  Environmental,
-} from '../environmental/entities/environmental.entity';
+import { Environmental } from '../environmental/entities/environmental.entity';
 import { Traffic } from 'src/traffic/entities/traffic.entity';
-/* var uuid = require('uuid'); */
 import { v4 as uuidv4 } from 'uuid';
+import { UpdateDeviceDto } from './dto/update-device.dto';
+import { Zona } from '../zonas/entities/zona.entity';
 
 @Injectable()
 export class DevicesService {
   constructor(
     @InjectModel(Device.name)
     private readonly DeviceModel: Model<Device>,
+
+    @InjectModel(Zona.name)
+    private readonly ZonaModel: Model<Zona>,
 
     @InjectModel(Environmental.name)
     private readonly EnvironmentalModel: Model<Environmental>,
@@ -158,5 +163,43 @@ export class DevicesService {
 
   findOneById(id: string) {
     return this.DeviceModel.findById(id);
+  }
+
+  async ModifyDevices(deviceId: string, deviceModify: UpdateDeviceDto) {
+    const device = await this.DeviceModel.findById(deviceId);
+    if (!device) throw new NotFoundException('Dispositivo no encontrado');
+
+    if (!deviceModify.zoneId) {
+      deviceModify.zoneId = device.zoneId;
+    } else {
+      if (device.zoneId?.toString() !== deviceModify.zoneId.toString()) {
+        // Zona antigua remover deviceId del array devices
+        const zonaAntiguo = await this.ZonaModel.findById(device.zoneId);
+        if (zonaAntiguo) {
+          zonaAntiguo.devices = zonaAntiguo.devices.filter(
+            (id) => id.toString() !== deviceId,
+          );
+          await zonaAntiguo.save();
+        }
+
+        // Zona nueva agregar deviceId al array devices si no esta
+        const zonaNueva = await this.ZonaModel.findById(deviceModify.zoneId);
+        if (zonaNueva) {
+          if (!zonaNueva.devices.some((id) => id.toString() === deviceId)) {
+            zonaNueva.devices.push(deviceId);
+            await zonaNueva.save();
+          }
+        }
+      }
+
+      deviceModify.guid = device.guid;
+      deviceModify.createdAt = device.createdAt;
+
+      device.set(deviceModify);
+
+      await device.save();
+
+      return device;
+    }
   }
 }

@@ -4,7 +4,6 @@ import { InjectModel } from '@nestjs/mongoose';
 import { Zona } from './entities/zona.entity';
 import { Model } from 'mongoose';
 import { Device } from 'src/devices/entities/device.entity';
-import { CreateDeviceDto } from '../devices/dto/create-device.dto';
 
 @Injectable()
 export class ZonasService {
