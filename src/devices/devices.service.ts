@@ -169,11 +169,25 @@ export class DevicesService {
     const device = await this.DeviceModel.findById(deviceId);
     if (!device) throw new NotFoundException('Dispositivo no encontrado');
 
-    if (!deviceModify.zoneId) {
-      deviceModify.zoneId = device.zoneId;
-    } else {
-      if (device.zoneId?.toString() !== deviceModify.zoneId.toString()) {
-        // Zona antigua remover deviceId del array devices
+    const ModifyZoneId = deviceModify.zoneId?.toString().trim();
+
+    // Si no se especifica una zona, conservar la actual
+    if (!ModifyZoneId) {
+      deviceModify.zoneId = deviceModify.zoneId;
+
+      //Misma logica que abajo
+      const zonaAntiguo = await this.ZonaModel.findById(device.zoneId);
+      if (zonaAntiguo) {
+        zonaAntiguo.devices = zonaAntiguo.devices.filter(
+          (id) => id.toString() !== deviceId,
+        );
+        await zonaAntiguo.save();
+      }
+    } else if (device.zoneId?.toString() !== ModifyZoneId) {
+      // Zona antigua: bprrar deviceId del array
+      if (!device.zoneId) {
+        console.log('No hay id de zona previo');
+      } else {
         const zonaAntiguo = await this.ZonaModel.findById(device.zoneId);
         if (zonaAntiguo) {
           zonaAntiguo.devices = zonaAntiguo.devices.filter(
@@ -181,25 +195,30 @@ export class DevicesService {
           );
           await zonaAntiguo.save();
         }
+      }
+      // Zona nueva: agregar deviceId si no esta
 
-        // Zona nueva agregar deviceId al array devices si no esta
-        const zonaNueva = await this.ZonaModel.findById(deviceModify.zoneId);
-        if (zonaNueva) {
-          if (!zonaNueva.devices.some((id) => id.toString() === deviceId)) {
-            zonaNueva.devices.push(deviceId);
-            await zonaNueva.save();
-          }
+      const zonaNueva = await this.ZonaModel.findById(ModifyZoneId);
+      if (zonaNueva) {
+        if (!zonaNueva.devices.some((id) => id.toString() === deviceId)) {
+          zonaNueva.devices.push(deviceId);
+          await zonaNueva.save();
         }
       }
 
-      deviceModify.guid = device.guid;
-      deviceModify.createdAt = device.createdAt;
-
-      device.set(deviceModify);
-
-      await device.save();
-
-      return device;
+      deviceModify.zoneId = ModifyZoneId;
+    } else {
+      deviceModify.zoneId = device.zoneId;
     }
+
+    // Conservar datos originales
+    deviceModify.guid = device.guid;
+    deviceModify.createdAt = device.createdAt;
+
+    // Actualizar el dispositivo
+    device.set(deviceModify);
+    await device.save();
+
+    return device;
   }
 }

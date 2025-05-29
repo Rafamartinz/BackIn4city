@@ -69,8 +69,6 @@ export class DevicesController {
     @Query('page') page: number = 1,
     @Query('limit') limit: number = 10,
   ) {
-    console.log('FEcha controller', fecIni);
-    console.log('FEcha controller', EndDate);
     return this.devicesService.filterForDate(
       type,
       fecIni,
